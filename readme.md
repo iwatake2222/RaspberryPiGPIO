@@ -3,7 +3,7 @@
 	* Control GPIO by shell on Raspberry Pi
 	* Control GPIO by the program you created on Raspberry Pi
 	* Control GPIO by the program you created on Host PC (Cross Compile)
-	* Understand how to user external library when cross compile
+	* Understand how to use external library when cross compile
 * Library in use
 	* WiringPi <http://wiringpi.com/>
 * I assume directory structure as:
